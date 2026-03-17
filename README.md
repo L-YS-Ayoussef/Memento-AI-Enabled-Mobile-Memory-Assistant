@@ -238,25 +238,25 @@ The BusinessDB user schema includes core account information such as full name, 
 ## Architecture Diagrams
 
 ### 1) End-to-end system block diagram
-![System Block Diagram](Docs/diagrams/system-block-diagram.png)
+![System Block Diagram](Docs/diagrams/system-block-diagram.jpeg)
 
 This figure shows the split between the on-device pipeline and the cloud pipeline, including passive capture, temporary memory, speech processing, WebSocket communication, agent workflow, short-term state, and vectorized event storage.
 
 ### 2) Background service functions
-![Background Service Functions](Docs/diagrams/background-service-functions.png)
+![Background Service Functions](Docs/diagrams/background-service-functions.jpeg)
 
 This diagram summarizes the two periodic background functions:
 - voice-driven event detection
 - location-driven reminder activation.
 
 ### 3) Speech recognition design
-![Speech Recognition Model](Docs/diagrams/speech-recognition-model.png)
+![Speech Recognition Model](Docs/diagrams/speech-recognition-model.jpeg)
 
 selected direction using native speech_to_text & VAD
 </details>
 
 ### 4) Active-agent graph
-![Active Agent Graph](Docs/diagrams/active-agent-graph.png)
+![Active Agent Graph](Docs/diagrams/active-agent-graph.jpeg)
 
 This diagram shows how user input is routed into schedule, update, delete, query, and conversation sub-agents, with short-term memory, long-term memory, and summarization integrated into the workflow.
 

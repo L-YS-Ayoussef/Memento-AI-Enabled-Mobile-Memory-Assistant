@@ -302,8 +302,8 @@ From a system-design perspective, the strongest contribution is the balance betw
 
 ## Demo
 
-Marketing: https://youtu.be/4dHcKl4IGik
-Demo: https://youtube.com/shorts/i2Lab8Lez54
+- Marketing: https://youtu.be/4dHcKl4IGik
+- Demo: https://youtube.com/shorts/i2Lab8Lez54
 
 ---
 

@@ -291,7 +291,7 @@ From a system-design perspective, the strongest contribution is the balance betw
 ## Team
 
 | Memento Team | Memento Team | Memento Team |
-|--|--|--|--|--|
+|--|--|--|
 | ![](Docs/discussion/1.jpeg) | ![](Docs/discussion/2.jpeg) | ![](Docs/discussion/3.jpeg) |
 
 ---
